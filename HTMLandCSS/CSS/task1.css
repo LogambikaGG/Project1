@@ -1,0 +1,16 @@
+body {
+    background-color: skyblue;
+}
+
+
+.task1-style {
+    color: black;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.list-style {
+    color: blue;
+    text-transform: uppercase;
+    list-style-type: none;
+}
